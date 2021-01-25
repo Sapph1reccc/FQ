@@ -1,6 +1,6 @@
 # FQ(iOS)
 1. 找一个外区id，没有的话问我；
-2. 外区id登陆的app store，下个shadowsocks或者其他FQ软件；
+2. 外区id登陆的app store，下个shadowrocket或者其他FQ软件；
 3. 找一个靠谱的机场，没有的话问我
 
 
